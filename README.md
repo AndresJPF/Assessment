@@ -37,7 +37,7 @@ It asks you to choose an option from a menu.
 
 Example:
 
-```text
+text
 1. Add product  
 2. Show products  
 3. Update product  
