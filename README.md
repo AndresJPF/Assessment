@@ -13,10 +13,11 @@ You can download this project from GitHub.
 1. Open your terminal (command prompt)  
 
 2. Type this command:
-
+   ```bash
    git clone git@github.com:AndresJPF/Assessment.git
    
 3. Go to the project folder.
+    ```bash
     cd Assessment
     python main.py
 
