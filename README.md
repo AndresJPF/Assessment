@@ -13,7 +13,7 @@ You can download this project from GitHub.
 1. Open your terminal (command prompt)  
 
 2. Type this command:
-   git clone git@github.com:AndresJPF/Assessment.git
+  git clone https://github.com/AndresJPF/Assessment.git
    
 3. Go to the project folder.
     cd Assessment
